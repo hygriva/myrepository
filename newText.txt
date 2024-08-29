@@ -1,0 +1,1 @@
+The Line2 in newText.txt
