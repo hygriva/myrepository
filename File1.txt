@@ -2,4 +2,3 @@ The 1st Line
 The 2st Line
 The 3rd Line
 The 4th Line
-The stupid commit
