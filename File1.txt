@@ -1,2 +1,1 @@
-The 6th Line
-The 6th Line
+The line2 in feature2
